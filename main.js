@@ -1,8 +1,8 @@
 "use strict"
 
 const inhaleTime = 3000;
-const holdTime = 2000;
-const totalTime = 9000;
+const holdTime = 1500;
+const totalTime = 7500;
 
 const textPromt = document.getElementById('text-prompts')
 const container = document.getElementById('container')
